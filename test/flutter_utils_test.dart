@@ -1,7 +1,7 @@
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_utils/flutter_utils.dart';
+import 'package:flutter_assist/flutter_assist.dart';
 
 void main() {
   test('test datetime.util', () {

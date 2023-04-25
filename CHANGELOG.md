@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `flutter_utils` package includes various utility functions and classes that aim to simplify some common tasks while working with Flutter. These utilities are grouped into different categories such as DateTime, Flow, Functions, LocalFile, Log, MapMarker, and Regex.
+The `flutter_assist` package includes various utility functions and classes that aim to simplify some common tasks while working with Flutter. These utilities are grouped into different categories such as DateTime, Flow, Functions, LocalFile, Log, MapMarker, and Regex.
 
 ## Installation
 
@@ -10,7 +10,7 @@ To use this package, you need to include it as a dependency in your `pubspec.yam
 
 ```yaml
 dependencies:
-  flutter_utils: ^1.0.0
+  flutter_assist: ^1.0.0
 ```
 
 Then, run `flutter pub get` to download the package.

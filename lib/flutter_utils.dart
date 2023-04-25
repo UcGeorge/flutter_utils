@@ -1,4 +1,4 @@
-library flutter_utils;
+library flutter_assist;
 
 export './util/datetime.util.dart';
 export './util/flow.util.dart';
