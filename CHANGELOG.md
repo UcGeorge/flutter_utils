@@ -1,5 +1,9 @@
 ## 0.0.1
 
+- Initial version
+
+## 1.0.1
+
 ## Overview
 
 The `flutter_assist` package includes various utility functions and classes that aim to simplify some common tasks while working with Flutter. These utilities are grouped into different categories such as DateTime, Flow, Functions, LocalFile, Log, MapMarker, and Regex.
@@ -50,3 +54,7 @@ The `MapMarkerUtil` category includes a set of static functions that allow you t
 ## RegexUtil
 
 The `RegexUtil` category includes a set of static RegEx objects for form validations.
+
+## 1.0.2
+
+- Added a third DateTime format, `Thursday, Febuary 12`
