@@ -1,6 +1,6 @@
 name: flutter_assist
 description: This package includes various utility functions and classes that aim to simplify some common tasks while working with Flutter.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/UcGeorge/flutter_utils
 
 environment:

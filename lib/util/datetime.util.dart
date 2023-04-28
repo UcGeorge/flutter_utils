@@ -18,5 +18,7 @@ extension DTUtil on DateTime {
 
   String formatDate2() => DateFormat('MMMM d, y').format(this);
 
+  String formatDate3() => DateFormat('EEEE, MMMM d').format(this);
+
   String formatTime() => DateFormat.jm().format(this);
 }
